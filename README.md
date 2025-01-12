@@ -52,6 +52,7 @@ In this assignment, you will:
    docker build -t hw0_image .
    ```
    This will compile your program inside a Docker container.
+   Error "failed to read dockerfile": Make sure you are in your repository root directory, not '/HW0'!
 
 2. Run the Docker container to execute your program:
    ```bash
