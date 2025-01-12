@@ -73,7 +73,7 @@ In this assignment, you will:
 
 ### Step 5: Push a Signed Commit to GitHub
 1. Configure Git to sign commits if you haven’t already:
-   - Generate a GPG key if you don’t have one:
+   - Generate a GPG key if you don’t have one, follow the [guide](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key):
      ```bash
      gpg --full-generate-key
      ```
