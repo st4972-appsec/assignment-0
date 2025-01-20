@@ -95,7 +95,6 @@ In this assignment, you will:
    ```bash
    git push origin main
    ```
-
 ---
 
 ## Salt File and Grading
@@ -132,3 +131,7 @@ Your instructor will pull your repository to verify the following:
 2. A signed commit pushed to GitHub.
 
 Make sure everything is correct before the due date. If you encounter issues, reach out to the course staff for assistance.
+
+## Tips
+
+1. To avoid having to type in your password all the time, you may also want to [set up SSH key access to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh).
