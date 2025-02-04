@@ -80,6 +80,9 @@ In this assignment, you will:
 ---
 
 ### Step 5: Push a Signed Commit to GitHub
+
+**You should configure this within your Docker to avoid complications with your operating system. This sets you up to have a container that you know works for future assignments**
+
 1. Configure Git to sign commits if you haven’t already:
    - Generate a GPG key if you don’t have one, follow the [guide](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key):
 
@@ -140,9 +143,9 @@ In this assignment, you will:
 ## What to Submit
 
 To submit your code, please only submit a file called `git_link.txt` that contains the name of your repository to **Gradescope**.
-For example, if your repo is located at 'h<span>ttps:</span>//github.com/NYUAppSec__/assignment1-module1-exampleaccount', you would submit a text file named `git_link.txt` with only line that reads with <ins><b>only</b></ins> the following:
+For example, if your repo is located at 'h<span>ttps:</span>//github.com/NYUAppSec__/assignment-1-module1-exampleaccount', you would submit a text file named `git_link.txt` with only line that reads with <ins><b>only</b></ins> the following:
 
-    assignment1-module1-exampleaccount
+    assignment-1-module1-exampleaccount
 
 Remember that <b>Gradescope is not instant</b>. Especially if we have to look into past GitHub action runs. We have a timeout set for 10 minutes, almost all well running code will complete within 5 minutes. Wait for it to complete or timeout before trying to re-run. 
 
@@ -156,3 +159,4 @@ Make sure everything is correct before the due date.
 ## Tips
 
 1. To avoid having to type in your password all the time, you may also want to [set up SSH key access to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh). This will help make your work on the graded assignments a bit easier!
+2. We want to heavily stress **it is best to setup your GPG keys within Docker and keep that instance as a snapshot for upcoming assignments**. Take some time to understand why this is recommended. 
