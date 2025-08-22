@@ -1,5 +1,13 @@
 # Assignment 0
 
+## Introduction
+
+Assignment 0 is a simple, ungraded (but required) task designed to help you get comfortable with essential tools like Docker, GitHub, and signing your GitHub commits. The goal is to ensure you're ready to tackle future assignments smoothly.
+
+**Grading:** This assignment is ungraded and allows unlimited attempts. However, completing it with full marks is necessary to qualify for participation credit in the course.
+**Deadline:** All students must complete Assignment 0 before the due date set in gradescope
+**Estimated Time:** Most students can finish this assignment in under 10 minutes. If you need to set up a GitHub profile, setup secure access, and/or enable commit signing, it may take you a bit longer.
+
 ## Purpose
 The purpose of this assignment is to ensure you have the foundational skills required for this course. These include basic familiarity with version control, programming, and containerization. Please make sure that you complete this assignment before the add/drop date or you might struggle to keep up with the class.
 
