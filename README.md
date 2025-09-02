@@ -151,7 +151,7 @@ In this assignment, you will:
 ## What to Submit
 
 To submit your code, please only submit a file called `git_link.txt` that contains the name of your repository to **Gradescope**.
-For example, if your repo is located at 'h<span>ttps:</span>//github.com/NYUAppSec__/assignment-1-module1-exampleaccount', you would submit a text file named `git_link.txt` with only line that reads with <ins><b>only</b></ins> the following:
+For example, if your repo is located at 'h<span>ttps:</span>//github.com/NYUAppSec__/assignment-1-module1-exampleaccount', you would submit a text file named `git_link.txt` with only one line that reads with <ins><b>only</b></ins> the following:
 
     assignment-1-module1-exampleaccount
 
